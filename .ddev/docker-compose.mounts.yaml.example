@@ -1,0 +1,4 @@
+services:
+  web:
+    volumes:
+      - ../../PLUGIN:/var/www/html/web/app/plugins/PLUGIN
