@@ -1,4 +1,4 @@
-# WordPress Dev Site
+# LunaPress Dev Site
 
 - PHP 8.3+
 
@@ -7,7 +7,7 @@
 1. Clone the repository
 
    ```shell
-   git clone git@github.com:onepix/wp-dev-site.git SITE.TEST
+   git clone git@github.com:lunapress/wp-dev-site.git SITE.TEST
    ```
 
 2. Install [DDEV](https://ddev.com/get-started/)

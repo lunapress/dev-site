@@ -1,4 +1,4 @@
-name: wp-dev-site
+name: lunapress-dev-site
 type: wordpress
 docroot: web
 php_version: "8.3"
