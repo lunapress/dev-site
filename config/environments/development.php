@@ -20,3 +20,7 @@ ini_set('display_errors', '1');
 
 // Enable plugin and theme updates and installation from the admin
 Config::define('DISALLOW_FILE_MODS', false);
+
+//Config::define('VITE_DEV', true);
+
+//Config::define('LUNAPRESS_DISABLE_CACHE_LUNAPRESS_PLUGIN_TEMPLATE', true);

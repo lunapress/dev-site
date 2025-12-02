@@ -1,5 +1,6 @@
 #ddev-generated: Automatically generated ddev .gitignore.
 # You can remove the above line if you want to edit and maintain this file yourself.
+/.gitignore
 
 /**/*.example
 /.dbimageBuild
@@ -24,11 +25,11 @@
 /providers/platform.yaml
 /providers/upsun.yaml
 /sequelpro.spf
-/traefik/config/wp-dev-site.yaml
-/traefik/certs/wp-dev-site.crt
-/traefik/certs/wp-dev-site.key
+/traefik/config/lunapress-dev-site.yaml
+/traefik/certs/lunapress-dev-site.crt
+/traefik/certs/lunapress-dev-site.key
 /xhprof/xhprof_prepend.php
 /**/README.*
 
-!config.override.yaml.example
-!docker-compose.mounts.yaml.example
+config.override.yaml
+docker-compose.mounts.yaml
